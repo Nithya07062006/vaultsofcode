@@ -181,4 +181,45 @@ The objective was to design a simple and elegant web page showcasing multiple in
 
 > **Task 2 – Completed and Submitted**  
 > Vault of Codes Web Dev Internship – July 2025
+---
+
+## ✅ Task 4: Advanced Component Integration - Portfolio with Card
+
+In Task 4 of the Vaults of Code Internship, I was assigned to build an advanced front-end component and integrate it into a real project.
+
+### 🔹 Task Details:
+- Objective: Build and implement an advanced component (like a card, modal, or slider).
+- Technology: Pure HTML + CSS (no frameworks or libraries).
+- Component Chosen: **Project Card UI**
+
+### 💡 What I Did:
+- Designed a modern and responsive **card component**.
+- Integrated it directly into my existing personal portfolio.
+- Used clean CSS animations and hover effects.
+- Linked the card to my [GitHub profile](https://github.com/Nithya07062006) for project access.
+
+### 🔍 Features Added:
+- ✅ Smooth hover animations
+- ✅ Project preview image
+- ✅ GitHub profile link in card footer
+- ✅ Consistent design with the rest of the site
+
+### 📸 Preview:
+![Card Component Preview]("C:\Users\nithy\OneDrive\Pictures\Camera Roll\Screenshots 1\Screenshot 2025-07-29 094620.png")
+
+### 🛠️ Code Snippet:
+```html
+<div class="card">
+  <img src="https://source.unsplash.com/400x300/?technology,ai" alt="Project Image" />
+  <div class="card-body">
+    <h3 class="card-title">AI Income Tracker</h3>
+    <p class="card-text">
+      A Raspberry Pi–based system to track income growth of FPOs with offline dashboards. Built for rural development under WDC 2.0.
+    </p>
+  </div>
+  <div class="card-footer">
+    <a href="https://github.com/Nithya07062006" target="_blank">GitHub ↗</a>
+  </div>
+</div>
+
 
