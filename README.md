@@ -129,3 +129,56 @@ The app allows users to **verify student details and internship certificates** u
 ├── certificate files (if linked)
 **Assignment 3 – Completed and Submitted**  
 > Vault of Codes Web Development Internship – July 2025
+
+
+
+
+TASK 2
+# 💼 Internship Opportunities Page – Task 2
+
+### 🔐 Vault of Codes – Web Development Internship  
+👩‍💻 **Name:** Nithyashree H S  
+🏫 **College:** Presidency University, Bengaluru  
+📅 **Date:** July 2025
+
+---
+
+## 📌 Task Overview
+
+This project is submitted as **Task 2** for the **Vault of Codes Web Development Internship**.  
+The objective was to design a simple and elegant web page showcasing multiple internship opportunities.
+
+---
+
+## 🎯 Features Implemented
+
+- 🖥️ Clean and modern **responsive layout**
+- 📄 Display of **4 internship cards**
+- ✍️ Each card includes:
+  - Internship title
+  - Duration
+  - Location
+  - Stipend
+  - Start Date
+  - "View Details" button
+- 🎨 Styled using **Google Fonts + CSS Grid + Shadows + Transitions**
+
+---
+
+## 🛠️ Technologies Used
+
+- ✅ HTML5  
+- ✅ CSS3 (Responsive Grid, Hover Effects, Fonts)
+
+---
+
+## 🗂️ File Structure
+
+📁 internship-task-2/
+├── index.html # Main HTML file
+├── style.css # Custom styles
+└── README.md # Project documentation (this file)
+
+> **Task 2 – Completed and Submitted**  
+> Vault of Codes Web Dev Internship – July 2025
+
